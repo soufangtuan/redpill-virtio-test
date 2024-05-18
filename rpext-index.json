@@ -9,6 +9,6 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "dva1622_42962": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds920p_41890.json"
+    "dva1622_42962": "https://raw.githubusercontent.com/soufangtuan/redpill-virtio-test/master/recipes/dva1622_42962.json"
   }
 }
